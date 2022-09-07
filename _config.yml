@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "RF&CTI"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Redflag Organization" # site tagline that appears below site title in masthead
 name                     : "Redflag"
 description              : "A threat intelligence research organization."
 url                      : "https://rfcti.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -115,7 +115,7 @@ author:
       url: "mailto:farleyK@protonmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://RFCTI.github.io"
+      url: "https://rfcti.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -218,8 +218,8 @@ sass:
 
 # Outputting
 # permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
